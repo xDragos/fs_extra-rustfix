@@ -1,0 +1,2 @@
+[patch.crates-io]
+fs_extra = { git = "https://github.com/xDragos/fs_extra-rustfix.git" }
